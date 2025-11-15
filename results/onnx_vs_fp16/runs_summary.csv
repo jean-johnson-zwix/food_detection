@@ -1,0 +1,3 @@
+run_name,engine_type,engine_file,files,imgsz,conf,iou,avg_ms,throughput_ips,total_time_s
+ONNX Runtime run,ONNX Runtime,best.onnx,1514,640,0.33,0.6,72.973,13.7,110.48
+TensorRT (FP16) run,TensorRT (FP16),best_tensorrt_fp16.engine,1514,640,0.33,0.6,7.845,127.47,11.878

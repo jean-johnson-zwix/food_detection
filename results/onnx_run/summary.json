@@ -1,0 +1,1107 @@
+{
+  "summary": {
+    "engine": "/home/ubuntu/calorify/saved_models/best.onnx",
+    "source": "/home/ubuntu/calorify/data/processed/uecfood100/images/val",
+    "files": 1514,
+    "avg_time_per_image_s": 0.07297255704953738,
+    "total_time_s": 110.4804513729996,
+    "conf": 0.33,
+    "iou": 0.6,
+    "imgsz": 640
+  },
+  "results": [
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13130.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.899810791015625,
+            0.07892608642578125,
+            799.5391845703125,
+            597.0257568359375
+          ],
+          "bbox_xywhn": [
+            0.5002743601799011,
+            0.4975872337818146,
+            0.998299241065979,
+            0.9949114322662354
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.7767177224159241
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13140.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0,
+            0.1024484634399414,
+            500.0,
+            373.3531188964844
+          ],
+          "bbox_xywhn": [
+            0.5,
+            0.4979407489299774,
+            1.0,
+            0.9953351020812988
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.7822452783584595
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13141.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.273895263671875,
+            14.062843322753906,
+            800.0,
+            588.3638305664062
+          ],
+          "bbox_xywhn": [
+            0.5001711845397949,
+            0.5037012696266174,
+            0.9996575713157654,
+            0.9603695273399353
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.7421413064002991
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13144.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0235595703125,
+            25.82989501953125,
+            636.3983154296875,
+            478.2420349121094
+          ],
+          "bbox_xywhn": [
+            0.49720460176467896,
+            0.5250749588012695,
+            0.9943355917930603,
+            0.942525327205658
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.7426580190658569
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13148.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            349.8221435546875,
+            262.3998718261719
+          ],
+          "bbox_xywhn": [
+            0.4997459053993225,
+            0.49885907769203186,
+            0.999491810798645,
+            0.9977181553840637
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.6486467719078064
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13161.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            114.54534912109375,
+            1.6396484375,
+            640.0,
+            477.3050842285156
+          ],
+          "bbox_xywhn": [
+            0.5894885659217834,
+            0.49890080094337463,
+            0.8210229277610779,
+            0.990969717502594
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.743963360786438
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13182.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13197.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.4969024658203125,
+            25.100364685058594,
+            399.2596435546875,
+            291.371826171875
+          ],
+          "bbox_xywhn": [
+            0.49969565868377686,
+            0.5274536609649658,
+            0.9969068765640259,
+            0.8875715136528015
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.8963475227355957
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/100_13199.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            55.79093933105469,
+            105.01079559326172,
+            709.0093994140625,
+            501.905517578125
+          ],
+          "bbox_xywhn": [
+            0.4780002236366272,
+            0.5704100728034973,
+            0.816523015499115,
+            0.7460427284240723
+          ],
+          "class_id": 99,
+          "class_name": "goya chanpuru",
+          "confidence": 0.609527587890625
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_10869.jpg",
+      "num_dets": 2,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            1.7224502563476562,
+            9.256988525390625,
+            360.0,
+            473.9908447265625
+          ],
+          "bbox_xywhn": [
+            0.5023922920227051,
+            0.5033831596374512,
+            0.9952154755592346,
+            0.9681955575942993
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.6071439385414124
+        },
+        {
+          "bbox_xyxy": [
+            0.0,
+            5.4758148193359375,
+            360.0,
+            467.63031005859375
+          ],
+          "bbox_xywhn": [
+            0.5,
+            0.4928189218044281,
+            1.0,
+            0.962821900844574
+          ],
+          "class_id": 53,
+          "class_name": "tempura",
+          "confidence": 0.396999716758728
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_11620.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            12.400588989257812,
+            54.490447998046875,
+            425.84814453125,
+            470.064697265625
+          ],
+          "bbox_xywhn": [
+            0.4672161340713501,
+            0.5464116930961609,
+            0.8815513253211975,
+            0.8657797574996948
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.6474887728691101
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_15695.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_908.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            18.55891227722168,
+            0.0,
+            195.65457153320312,
+            162.9532012939453
+          ],
+          "bbox_xywhn": [
+            0.4462781250476837,
+            0.4526478052139282,
+            0.737898588180542,
+            0.9052956104278564
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.8212077021598816
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_909.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            30.105268478393555,
+            1.3922882080078125,
+            209.2691650390625,
+            155.6226806640625
+          ],
+          "bbox_xywhn": [
+            0.49869677424430847,
+            0.43615269660949707,
+            0.7465162873268127,
+            0.8568355441093445
+          ],
+          "class_id": 4,
+          "class_name": "pork cutlet on rice",
+          "confidence": 0.5335792303085327
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_911.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            1.609375,
+            0.7928695678710938,
+            156.27133178710938,
+            120.0
+          ],
+          "bbox_xywhn": [
+            0.4933772087097168,
+            0.5033036470413208,
+            0.9666372537612915,
+            0.993392825126648
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.7817268371582031
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_922.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            15.038437843322754,
+            25.523216247558594,
+            152.0438995361328,
+            119.52970886230469
+          ],
+          "bbox_xywhn": [
+            0.49141865968704224,
+            0.5896459817886353,
+            0.8059145212173462,
+            0.764280378818512
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.44941598176956177
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_924.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            17.109304428100586,
+            18.941669464111328,
+            145.80303955078125,
+            115.93128967285156
+          ],
+          "bbox_xywhn": [
+            0.47915393114089966,
+            0.5619706511497498,
+            0.7570220232009888,
+            0.808246910572052
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.4499084949493408
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_926.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            45.479942321777344,
+            9.965869903564453,
+            205.3853302001953,
+            161.0594482421875
+          ],
+          "bbox_xywhn": [
+            0.5226359963417053,
+            0.4750703275203705,
+            0.6662725210189819,
+            0.839408814907074
+          ],
+          "class_id": 3,
+          "class_name": "chicken-'n'-egg on rice",
+          "confidence": 0.9258989095687866
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_930.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            10.303939819335938,
+            11.389760971069336,
+            229.4981231689453,
+            189.0641326904297
+          ],
+          "bbox_xywhn": [
+            0.49958765506744385,
+            0.5220153331756592,
+            0.9133091568946838,
+            0.9253873825073242
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.5321164727210999
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_936.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.489044189453125,
+            9.812301635742188,
+            160.0,
+            137.19137573242188
+          ],
+          "bbox_xywhn": [
+            0.501528263092041,
+            0.5139988660812378,
+            0.996943473815918,
+            0.8907627463340759
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.4531063437461853
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_938.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            5.364013671875,
+            1.6832008361816406,
+            159.44512939453125,
+            122.95541381835938
+          ],
+          "bbox_xywhn": [
+            0.5150285959243774,
+            0.47211596369743347,
+            0.9630069732666016,
+            0.9187289476394653
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.8164927959442139
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_951.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            18.840179443359375,
+            3.424515724182129,
+            180.0,
+            134.438232421875
+          ],
+          "bbox_xywhn": [
+            0.5523338317871094,
+            0.4923669695854187,
+            0.8953323364257812,
+            0.9358122944831848
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.7012699246406555
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_955.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_956.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            21.19318962097168,
+            27.360437393188477,
+            206.083251953125,
+            167.55938720703125
+          ],
+          "bbox_xywhn": [
+            0.4438993036746979,
+            0.5537495613098145,
+            0.7222267985343933,
+            0.7965849041938782
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.37244611978530884
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_957.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_966.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            16.670074462890625,
+            22.31124496459961,
+            190.49102783203125,
+            174.19784545898438
+          ],
+          "bbox_xywhn": [
+            0.5179027318954468,
+            0.5369100570678711,
+            0.8691047430038452,
+            0.8299813866615295
+          ],
+          "class_id": 4,
+          "class_name": "pork cutlet on rice",
+          "confidence": 0.39810657501220703
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_968.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            6.4829630851745605,
+            29.724681854248047,
+            271.82257080078125,
+            247.70603942871094
+          ],
+          "bbox_xywhn": [
+            0.46384257078170776,
+            0.5418568849563599,
+            0.8844653367996216,
+            0.8514896631240845
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.6957992315292358
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/10_974.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            13.785992622375488,
+            23.523401260375977,
+            214.54586791992188,
+            150.0
+          ],
+          "bbox_xywhn": [
+            0.49637359380722046,
+            0.5784114003181458,
+            0.8728689551353455,
+            0.8431773781776428
+          ],
+          "class_id": 9,
+          "class_name": "tempura bowl",
+          "confidence": 0.8703956007957458
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1005.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.09905624389648438,
+            28.45296287536621,
+            230.0,
+            199.5613555908203
+          ],
+          "bbox_xywhn": [
+            0.5002153515815735,
+            0.4956832528114319,
+            0.9995692372322083,
+            0.7439495325088501
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.7077403664588928
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1007.jpg",
+      "num_dets": 2,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0,
+            0.0,
+            218.7765655517578,
+            147.21542358398438
+          ],
+          "bbox_xywhn": [
+            0.497219443321228,
+            0.4907180964946747,
+            0.994438886642456,
+            0.9814361929893494
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.674905002117157
+        },
+        {
+          "bbox_xyxy": [
+            1.8931636810302734,
+            0.18277454376220703,
+            220.0,
+            146.50038146972656
+          ],
+          "bbox_xywhn": [
+            0.5043026208877563,
+            0.48894384503364563,
+            0.9913946986198425,
+            0.9754507541656494
+          ],
+          "class_id": 75,
+          "class_name": "sashimi bowl",
+          "confidence": 0.36642009019851685
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1028.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            1.0200403928756714,
+            2.6406381130218506,
+            299.75042724609375,
+            230.27479553222656
+          ],
+          "bbox_xywhn": [
+            0.501284122467041,
+            0.4872707724571228,
+            0.9957679510116577,
+            0.9524441361427307
+          ],
+          "class_id": 49,
+          "class_name": "sukiyaki",
+          "confidence": 0.6655101180076599
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1033.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            7.636241912841797,
+            8.474254608154297,
+            195.07763671875,
+            147.2115936279297
+          ],
+          "bbox_xywhn": [
+            0.5067846775054932,
+            0.5189528465270996,
+            0.9372069239616394,
+            0.924915611743927
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.3963465094566345
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1053.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.5340728759765625,
+            40.06672668457031,
+            270.4964599609375,
+            256.23370361328125
+          ],
+          "bbox_xywhn": [
+            0.37643128633499146,
+            0.5698084831237793,
+            0.7498955726623535,
+            0.8314114212989807
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.9082043766975403
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1054.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0,
+            0.8140137195587158,
+            384.0,
+            286.8875732421875
+          ],
+          "bbox_xywhn": [
+            0.5,
+            0.4994819462299347,
+            1.0,
+            0.9933109283447266
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.8439810872077942
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1057.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            17.70159912109375,
+            42.98016357421875,
+            611.9049682617188,
+            478.22589111328125
+          ],
+          "bbox_xywhn": [
+            0.4918801486492157,
+            0.5429229736328125,
+            0.9284427762031555,
+            0.9067620038986206
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.8244196772575378
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1066.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1083.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            24.827054977416992,
+            3.727041006088257,
+            259.2041015625,
+            179.14276123046875
+          ],
+          "bbox_xywhn": [
+            0.5071985125541687,
+            0.4812363386154175,
+            0.8370608687400818,
+            0.9232407212257385
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.9087144732475281
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1085.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            14.312591552734375,
+            0.0,
+            316.5845947265625,
+            236.77276611328125
+          ],
+          "bbox_xywhn": [
+            0.5170268416404724,
+            0.4932766258716583,
+            0.9446000456809998,
+            0.9865532517433167
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.8401007056236267
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1093.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            30.549007415771484,
+            5.907237529754639,
+            249.71661376953125,
+            181.71963500976562
+          ],
+          "bbox_xywhn": [
+            0.5004743337631226,
+            0.49375495314598083,
+            0.7827414274215698,
+            0.9253284335136414
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.9093859791755676
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_1098.jpg",
+      "num_dets": 2,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            59.79254150390625,
+            33.4326171875,
+            578.5479125976562,
+            471.47027587890625
+          ],
+          "bbox_xywhn": [
+            0.4987034797668457,
+            0.5259405374526978,
+            0.8105552792549133,
+            0.9125785231590271
+          ],
+          "class_id": 10,
+          "class_name": "bibimbap",
+          "confidence": 0.40510618686676025
+        },
+        {
+          "bbox_xyxy": [
+            62.98796081542969,
+            31.06939697265625,
+            567.8616333007812,
+            474.5033264160156
+          ],
+          "bbox_xywhn": [
+            0.49285125732421875,
+            0.5266382694244385,
+            0.7888650894165039,
+            0.9238207340240479
+          ],
+          "class_id": 4,
+          "class_name": "pork cutlet on rice",
+          "confidence": 0.401827871799469
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_13995.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            198.335205078125,
+            316.152099609375,
+            291.1962890625,
+            395.4140625
+          ],
+          "bbox_xywhn": [
+            0.3824464976787567,
+            0.7412148118019104,
+            0.14509545266628265,
+            0.16512909531593323
+          ],
+          "class_id": 69,
+          "class_name": "cold tofu",
+          "confidence": 0.478249192237854
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/11_16735.jpg",
+      "num_dets": 0,
+      "detections": []
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1100.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            7.457026958465576,
+            25.59817123413086,
+            268.9613037109375,
+            193.0128631591797
+          ],
+          "bbox_xywhn": [
+            0.4606972336769104,
+            0.5465275645256042,
+            0.8716809153556824,
+            0.8370734453201294
+          ],
+          "class_id": 11,
+          "class_name": "toast",
+          "confidence": 0.9220070242881775
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_11066.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            58.239749908447266,
+            18.225494384765625,
+            383.42401123046875,
+            350.3952941894531
+          ],
+          "bbox_xywhn": [
+            0.46006643772125244,
+            0.5119733214378357,
+            0.6774672269821167,
+            0.9226939082145691
+          ],
+          "class_id": 11,
+          "class_name": "toast",
+          "confidence": 0.8436387777328491
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1110.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            20.701025009155273,
+            23.359399795532227,
+            424.2121276855469,
+            340.1901550292969
+          ],
+          "bbox_xywhn": [
+            0.4344854950904846,
+            0.47337183356285095,
+            0.7881076335906982,
+            0.8250800967216492
+          ],
+          "class_id": 47,
+          "class_name": "sashimi",
+          "confidence": 0.34100914001464844
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1115.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            59.63677978515625,
+            88.13217163085938,
+            560.4903564453125,
+            416.70635986328125
+          ],
+          "bbox_xywhn": [
+            0.4844743311405182,
+            0.5258734822273254,
+            0.7825837135314941,
+            0.6845296025276184
+          ],
+          "class_id": 11,
+          "class_name": "toast",
+          "confidence": 0.8569430112838745
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1144.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            80.9974365234375,
+            57.99114990234375,
+            479.8728332519531,
+            315.4432067871094
+          ],
+          "bbox_xywhn": [
+            0.5842398405075073,
+            0.5853202939033508,
+            0.8309904336929321,
+            0.8070597052574158
+          ],
+          "class_id": 94,
+          "class_name": "pizza toast",
+          "confidence": 0.9369210004806519
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_11456.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            56.975189208984375,
+            15.341217041015625,
+            424.0502014160156,
+            335.9576416015625
+          ],
+          "bbox_xywhn": [
+            0.501068115234375,
+            0.4879150986671448,
+            0.7647396326065063,
+            0.8906012177467346
+          ],
+          "class_id": 11,
+          "class_name": "toast",
+          "confidence": 0.5786597728729248
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1154.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            17.768692016601562,
+            61.53887939453125,
+            229.3760986328125,
+            205.61276245117188
+          ],
+          "bbox_xywhn": [
+            0.4942896068096161,
+            0.5343033075332642,
+            0.8464296460151672,
+            0.5762955546379089
+          ],
+          "class_id": 11,
+          "class_name": "toast",
+          "confidence": 0.7556137442588806
+        }
+      ]
+    },
+    {
+      "image": "/home/ubuntu/calorify/data/processed/uecfood100/images/val/12_1164.jpg",
+      "num_dets": 1,
+      "detections": [
+        {
+          "bbox_xyxy": [
+            0.0,
+            57.586029052734375,
+            318.2760009765625,
+            279.522705078125
+          ],
+          "bbox_xywhn": [
+            0.4973062574863434,
+            0.599837601184845,
+            0.9946125149726868,
+            0.7898102402687073
+          ],
+          "class_id": 94,
+          "class_name": "pizza toast",
+          "confidence": 0.3691685199737549
+        }
+      ]
+    }
+  ]
+}
