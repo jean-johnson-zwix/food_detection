@@ -103,7 +103,7 @@ Run the food_detection module with both ONNX and FP16 engines.
 | TensorRT (FP16) run | TensorRT (FP16) | best_tensorrt_fp16.engine |    1514 |     640 |   0.33 |   0.6 |    7.845 |           127.47 |         11.878 |
 
 
-[!Latency Bar Chart](results\onnx_vs_fp16\latency_ms_bar.png)
+[!Latency Bar Chart](results/onnx_vs_fp16/latency_ms_bar.png)
 
-[!Throughput Bar Chart](results\onnx_vs_fp16\throughput_ips_bar.png)
+[!Throughput Bar Chart](results/onnx_vs_fp16/throughput_ips_bar.png)
 
